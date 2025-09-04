@@ -1,0 +1,12 @@
+code,name,short_name
+11,Registro civil,RC
+12,Tarjeta de identidad,TI
+13,Cédula de ciudadanía,CC
+21,Tarjeta de extranjería,TE
+22,Cédula de extranjería,CE
+31,Número de identificación tributaria,NIT
+41,Pasaporte,PP
+42,Documento de identificación extranjero,DIE
+47,Permiso especial de permanencia,PEP
+50,NIT de otro país,
+91,Número único de identificación personal,NUIP
