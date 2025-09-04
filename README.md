@@ -5,10 +5,10 @@ Este repositorio contiene datos públicos relevantes para Colombia, organizados 
 ## Estructura del repositorio
 
 - `ciiu/`
-  - `sections.csv`: Secciones en la que se divide los código CIIU
-  - `divisions.csv`: Diviciones en los códigos CIIU
+  - `sections.csv`: Secciones en las que se dividen los códigos CIIU
+  - `divisions.csv`: Divisiones en los códigos CIIU
   - `groups.csv`: Grupos de los códigos CIIU
-  - `codes.csv`: Código de los CIIU
+  - `codes.csv`: Códigos CIIU
 
 ## Uso
 
