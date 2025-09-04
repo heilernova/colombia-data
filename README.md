@@ -4,6 +4,12 @@ Este repositorio contiene datos públicos relevantes para Colombia, organizados 
 
 ## Estructura del repositorio
 
+- `ciiu/`
+  - `sections.csv`: Secciones en la que se divide los código CIIU
+  - `divisions.csv`: Diviciones en los códigos CIIU
+  - `groups.csv`: Grupos de los códigos CIIU
+  - `codes.csv`: Código de los CIIU
+
 ## Uso
 
 Puedes utilizar estos archivos CSV para proyectos de análisis de datos, integración en sistemas, o como referencia para desarrollos relacionados con información oficial colombiana.
